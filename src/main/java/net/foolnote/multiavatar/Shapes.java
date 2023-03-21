@@ -1,8 +1,8 @@
-package me.imarlon.multiavatar;
+package net.foolnote.multiavatar;
 
-import me.imarlon.multiavatar.constant.Constants;
-import me.imarlon.multiavatar.constant.Part;
-import me.imarlon.multiavatar.constant.ShapeV;
+import net.foolnote.multiavatar.constant.Constants;
+import net.foolnote.multiavatar.constant.Part;
+import net.foolnote.multiavatar.constant.ShapeV;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

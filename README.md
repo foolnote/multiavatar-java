@@ -4,7 +4,7 @@
 # Usage
 
 ```java
-import me.imarlon.multiavatar.Avatar;
+import net.foolnote.multiavatar.Avatar;
 
 import java.io.UnsupportedEncodingException;
 import java.security.NoSuchAlgorithmException;

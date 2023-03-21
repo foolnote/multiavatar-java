@@ -1,4 +1,4 @@
-package me.imarlon.multiavatar.constant;
+package net.foolnote.multiavatar.constant;
 
 /**
  * 部位版本常量
